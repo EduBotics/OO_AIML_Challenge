@@ -61,5 +61,5 @@ strict digraph {
 
 Does your code cope with this? If not, why not - is it because you need a better way to represent the data, or have you made assumptions in your code about the "shape" of the data, perhaps?
 
-[graph1]: temp.png
-[graph2]: temp2.png
+[graph1]: graph1.png
+[graph2]: graph2.png

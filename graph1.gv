@@ -4,9 +4,9 @@ strict digraph {
 	Basingstoke
 	Guildford
 
-	Fleet -> Hook [length=2]
-	Fleet -> Guildford [length=3]
-	Hook -> Basingstoke [length=1]
-	Guildford -> Basingstoke [length=1]
+	Fleet -> Hook [label="2", length=2]
+	Fleet -> Guildford [label="3", length=3]
+	Hook -> Basingstoke [label="1", length=1]
+	Guildford -> Basingstoke [label="1", length=1]
 }
 
