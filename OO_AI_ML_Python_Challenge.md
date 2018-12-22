@@ -5,6 +5,7 @@ If I have the travel connection network:
 
 ![Connection Network][graph1]
 
+The numbers against each link represent the effort it takes to move between the locations at each end of the link. You can think of this as a distance or a time, or just as a number that indicates some combination of such factors which affects the journey between two places. The exact values are nor particularly important for this exercise, but have been chosen to give slightly differing total lengths for the routes between Fleet and Basingstoke.  
 (The links are shown going in one direction, but (for now, at least) assume that you can move along them in either direction. That is, the connection between Fleet and Hook is shown, but it is also allowed to travel from Hook to Fleet)
 
 <!--
