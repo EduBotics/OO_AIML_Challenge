@@ -45,6 +45,7 @@ strict digraph {
 "Sunset Boulevard" -> "Limbo" [label="1"]
 "Limbo" -> "Hades" [label="23"]
 "Limbo" -> "Trogstar Beta" [label="48"]
+"Trogstar Beta" -> "Limbo" [label="48"]
 "Hades" -> "Limbo" [label="223"]
 "Hades" -> "Trogstar Beta" [label="232"]
 "Trogstar Beta" -> "Hades" [label="32"]
