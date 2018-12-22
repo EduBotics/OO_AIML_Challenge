@@ -3,3 +3,5 @@ A set of challenges to exercise programming skills. (Aimed particularly at Pytho
 The challenges introduce both Object Oriented (OO) ideas, and are based around some fundamental elements behind Artificial Intelligence (AI) and Machine Learning (ML).
 
 The first challenge is in the subdirectory [Challenge_pt1](https://github.com/EduBotics/OO_AIML_Challenge/tree/master/Challenge_pt1)
+
+The second challenge is in the subdirectory [Challenge_pt2](https://github.com/EduBotics/OO_AIML_Challenge/tree/master/Challenge_pt2)
