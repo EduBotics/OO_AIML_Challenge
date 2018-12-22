@@ -1,0 +1,12 @@
+strict digraph {
+	Fleet
+	Hook
+	Basingstoke
+	Guildford
+
+	Fleet -> Hook [length=2]
+	Fleet -> Guildford [length=3]
+	Hook -> Basingstoke [length=1]
+	Guildford -> Basingstoke [length=1]
+}
+
